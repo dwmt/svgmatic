@@ -1,0 +1,22 @@
+{
+  "name": "svgmatic",
+  "version": "1.0.0",
+  "description": "Simple SVG animation library",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "svg",
+    "animation",
+    "css",
+    "html",
+    "javascript",
+    "js"
+  ],
+  "author": "Gergely Szabo",
+  "license": "ISC"
+}
