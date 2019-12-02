@@ -15,8 +15,30 @@
     "css",
     "html",
     "javascript",
-    "js"
+    "js",
+    "vuejs",
+    "angular",
+    "react"
   ],
-  "author": "Gergely Szabo",
-  "license": "ISC"
+  "contributors": [
+    {
+      "name": "Lajos Kovács",
+      "email": "lajoskvcs@icloud.com",
+      "url": "https://lajoskvcs.com"
+    },
+    {
+      "name": "Gergely Szabó",
+      "email": "gergely0116@gmail.com",
+      "url": "https://github.com/Baxi0116"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dwmt/svgmatic/issues"
+  },
+  "homepage": "https://github.com/dwmt/svgmatic#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwmt/svgmatic.git"
+  }
 }
