@@ -1,6 +1,6 @@
 {
-  "name": "svgmatic",
-  "version": "1.0.0",
+  "name": "@dwmt/svgmatic",
+  "version": "0.0.1-alpha",
   "description": "Simple SVG animation library",
   "main": "index.js",
   "directories": {
